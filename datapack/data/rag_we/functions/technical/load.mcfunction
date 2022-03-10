@@ -2,8 +2,6 @@
 # Load
 ####################
 
-say reloaded
-
 ## Scoreboards
 scoreboard objectives add rag_we.jump minecraft.custom:minecraft.jump
 
