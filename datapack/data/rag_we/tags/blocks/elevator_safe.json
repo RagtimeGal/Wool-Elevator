@@ -5,7 +5,7 @@
     "minecraft:void_air",
     "minecraft:torch",
     "minecraft:soul_torch",
-    "#minecraft:carpets",
+    "#minecraft:wool_carpets",
     "#minecraft:pressure_plates",
     "minecraft:cobweb",
     "minecraft:glow_lichen",
@@ -19,6 +19,7 @@
     "minecraft:dead_fire_coral_fan",
     "minecraft:dead_horn_coral_fan",
     "minecraft:dead_tube_coral_fan",
-    "#minecraft:banners"
+    "#minecraft:banners",
+    "minecraft:sculk_vein"
   ]
 }
