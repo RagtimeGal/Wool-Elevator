@@ -1,6 +1,18 @@
 {
   "pack": {
-    "description": "[Wool Elevator] v0.2",
-    "pack_format": 9
+    "pack_format": 17,
+    "description": [
+      {
+        "text": "Wool Elevator",
+        "color": "#666666"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "v0.0.3",
+        "color": "#666666"
+      }
+    ]
   }
 }
